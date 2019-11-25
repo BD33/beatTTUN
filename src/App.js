@@ -51,7 +51,7 @@ render(){
           value = {this.state.value}
         />
         <div className="textMain">{this.state.sample}</div>
-  <div className="videoBox"><iframe width="350" height="300" frameBorde= "0" border-width = "0px"
+  <div className="videoBox"><iframe width="350" height="300" frameBorder="0" border-width = "0px"
         src={video}>
 </iframe></div>
     </div>
