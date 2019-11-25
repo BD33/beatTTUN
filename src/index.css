@@ -1,7 +1,8 @@
 .html{
   
     background-color: black;
-  
+    overflow-x: hidden;
+    overflow-y: scroll;
 }
 
 body {
